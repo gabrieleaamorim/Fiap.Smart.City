@@ -3,6 +3,6 @@ API criada no treinamento "Desenvolvimento .NET" da Fiap, utilizando o framework
 
 #Para conectar ao banco de dados, seguir os seguintes comandos no PowerShell como administrador:
 
-dotnet ef migrations add InitialCreate   //para criar a migrations.
+dotnet ef migrations add InitialCreate   //para criar as migrations.
 
 dotnet ef database update     // para conectar de fato ao MySQL e criar o banco de dados.
