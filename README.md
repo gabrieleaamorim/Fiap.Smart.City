@@ -1,5 +1,5 @@
 # Fiap.Smart.City
-API criada no treinamento "Desenvolvimento .NET" da Fiap, utilizando o framework Asp .NET Core e conectando a aplicação ao bando de dados MySQL.
+API criada no treinamento "Desenvolvimento .NET" da Fiap, utilizando o framework ASP .NET Core e conectando a aplicação ao bando de dados MySQL.
 
 #Para conectar ao banco de dados, seguir os seguintes comandos no PowerShell como administrador:
 
